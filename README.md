@@ -6,8 +6,14 @@ About Me:
 ###### 🔭 Expertise
   - Django, Laravel, VueJS, Computer Networking, OSINT, Pentesting & Offensive Security
 ###### 👯 Secondary skills
-  - Kivymd, Flutter, Firewalls, IPS, IDS and SIEM
-- 🤔 I’m looking for help with ...
+  - Kivymd, Flutter, Machine Learning, Sockets, Data Visualization, Web Scrapping, Deployments, Payment Solutions (Stripe, Paypal, Tap & Thawani), Firewalls, IPS, IDS and SIEM
+###### 🔭 Programming
+  - 🤔 Python (Pandas, Django, SKLearn, Beautiful Soup, Sockets, Scapy)
+  - 🤔 PHP (Laravel)
+  - 🤔 Javascript (VueJs, ChartsJs, JQuery)
+  - 🤔 Shells (Bash Scripting, PowerShell Scripting)
+  - 🤔 HTML, CSS (Bootstrap)
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
