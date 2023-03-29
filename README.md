@@ -7,7 +7,7 @@ About Me:
   - Django, Laravel, VueJS, Computer Networking, OSINT, Pentesting & Offensive Security
 
 ###### 🔭 Programming
-  - 🤔 Python (Pandas, Django, SKLearn, Beautiful Soup, Sockets, Scapy)  - 🤔 PHP (Laravel)  - 🤔 Javascript (VueJs, ChartsJs, JQuery)  - 🤔 Shells (Bash Scripting, PowerShell Scripting)  - 🤔 HTML, CSS (Bootstrap)
+  - 📫 Python (Pandas, Django, SKLearn, Beautiful Soup, Sockets, Scapy)  - PHP (Laravel)  -  Javascript (VueJs, ChartsJs, JQuery)  -  Shells (Bash Scripting, PowerShell Scripting)  - HTML, CSS (Bootstrap)
 
 ###### 👯 Cyber Security
   - 💬 Network Security & Pentesting, Active Directories, OSINT, ASA Firewalls, Networking, Red Teaming, Vulnerability Asseesment & Analysis.
