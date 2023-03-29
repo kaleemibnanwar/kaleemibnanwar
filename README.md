@@ -4,7 +4,7 @@
 
 About Me:
 ###### 🔭 Expertise
-  - Django, Laravel, VueJS, Networking & Offensive Security
+  - Django, Laravel, VueJS, Computer Networking, OSINT, Pentesting & Offensive Security
 ###### 👯 Secondary skills
   - Kivymd, Flutter, Firewalls, IPS, IDS and SIEM
 - 🤔 I’m looking for help with ...
