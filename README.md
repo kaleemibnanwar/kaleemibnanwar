@@ -1,6 +1,5 @@
-### Hi there 👋
-
-**Kaleem Ibn Anwar** is a ✨ _full stack developer & cyber security expert _ ✨ with a great passion to build invicible things and then break in them.
+#Kaleem Ibn Anwar
+is a ✨ _full stack developer & cyber security expert _ ✨ with a great passion to build invicible things and then break in them.
 
 About Me:
 ###### 🔭 Expertise
