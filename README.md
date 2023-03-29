@@ -3,7 +3,7 @@ A ✨ _full stack developer & cyber security analyst_ ✨, currently working as 
 #cybersecurity #hacking #instructor #hacker
 
 ###### 🔭 Expertise
-  - Django, Laravel, VueJS, Computer Networking, OSINT, Pentesting & Offensive Security
+  - Django, Laravel, VueJS, Pentesting, Offensive Security, Computer Networking and OSINT
 
 ###### 🔭 Programming
   - 📫 Python (Pandas, Django, SKLearn, Beautiful Soup, Sockets, Scapy)  - PHP (Laravel)  -  Javascript (VueJs, ChartsJs, JQuery)  -  Shells (Bash Scripting, PowerShell Scripting)  - HTML, CSS (Bootstrap)
