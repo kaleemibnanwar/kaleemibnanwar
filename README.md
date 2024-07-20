@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kaleem Ibn Anwar
 
 ## ✨ Full Stack Developer & Cyber Security Analyst ✨
 
@@ -33,9 +33,6 @@ Currently working as a Full Stack Developer at DevParagon. Computer geek special
 - Red Team Operations
 - Vulnerability Assessment & Analysis
 
-### 🌐 Connect with me
-
-[Add your social media links here]
 
 ### 📊 GitHub Stats
 
