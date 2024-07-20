@@ -1,12 +1,46 @@
+# 👋 Hi, I'm [Your Name]
 
-A ✨ _full stack developer & cyber security analyst_ ✨, currently working as Full Stack Developer at DevParagon. He is a computer geek having specialties in cyber security (Offensive & Defensive), networking and web development. He has also served as associate cyber security instructor in NFC Institute of Engineering & Technology for NAVTTC courses.
-#cybersecurity #hacking #instructor #hacker
+## ✨ Full Stack Developer & Cyber Security Analyst ✨
 
-###### 🔭 Expertise
-  - Django, Laravel, VueJS, Pentesting, Offensive Security, Computer Networking and OSINT
+Currently working as a Full Stack Developer at DevParagon. Computer geek specializing in cyber security (offensive & defensive), networking, and web development. Former associate cyber security instructor at NFC Institute of Engineering & Technology for NAVTTC courses.
 
-###### 🔭 Programming
-  - 📫 Python (Pandas, Django, SKLearn, Beautiful Soup, Sockets, Scapy)  - PHP (Laravel)  -  Javascript (VueJs, ChartsJs, JQuery)  -  Shells (Bash Scripting, PowerShell Scripting)  - HTML, CSS (Bootstrap)
+### 🚀 Expertise
 
-###### 👯 Cyber Security
-  - 💬 Network Security & Pentesting, Active Directories, OSINT, ASA Firewalls, Networking, Red Teaming, Vulnerability Asseesment & Analysis.
+- Full Stack Web Development
+- Cyber Security (Offensive & Defensive)
+- Computer Networking
+- OSINT (Open-Source Intelligence)
+
+### 💻 Tech Stack
+
+#### Web Development
+- Backend: Django, Laravel
+- Frontend: Vue.js, HTML, CSS (Bootstrap)
+- JavaScript: Vue.js, Chart.js, jQuery
+
+#### Programming Languages
+- Python (Pandas, Django, Scikit-learn, Beautiful Soup, Sockets, Scapy)
+- PHP
+- JavaScript
+- Shell Scripting (Bash, PowerShell)
+
+### 🛡️ Cyber Security Skills
+
+- Network Security & Penetration Testing
+- Active Directory Security
+- OSINT Techniques
+- ASA Firewall Configuration
+- Red Team Operations
+- Vulnerability Assessment & Analysis
+
+### 🌐 Connect with me
+
+[Add your social media links here]
+
+### 📊 GitHub Stats
+
+[You can add GitHub stats widgets here]
+
+---
+
+Always learning, always coding, always securing! 🔐💻
