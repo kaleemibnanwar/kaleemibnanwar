@@ -19,10 +19,7 @@ Currently working as a Full Stack Developer at DevParagon. Computer geek special
 - JavaScript: Vue.js, Chart.js, jQuery
 
 #### Programming Languages
-- Python (Pandas, Django, Scikit-learn, Beautiful Soup, Sockets, Scapy)
-- PHP
-- JavaScript
-- Shell Scripting (Bash, PowerShell)
+- Python - PHP - JavaScript - Shell Scripting (Bash, PowerShell)
 
 ### 🛡️ Cyber Security Skills
 
