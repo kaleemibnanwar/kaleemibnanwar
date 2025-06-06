@@ -19,15 +19,13 @@ Computer geek specializing in software engineering and security. With more than 
 #### Programming Languages
 - Python - PHP - JavaScript - Shell Scripting (Bash, PowerShell)
 
-### 🛡️ Cyber Security Skills
+### 🛡️ Cyber Security
 
 - Network Security & Penetration Testing
-- Active Directory Security
-- OSINT Techniques
-- ASA Firewall Configuration
 - Red Team Operations
-- Vulnerability Assessment & Analysis
-
+- Cyber Warfare
+- Malware Analysis
+- SOC
 
 ### 📊 GitHub Stats
 
