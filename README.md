@@ -2,14 +2,12 @@
 
 ## ✨ Full Stack Developer & Cyber Security Analyst ✨
 
-Currently working as a Full Stack Developer at DevParagon. Computer geek specializing in cyber security (offensive & defensive), networking, and web development. Former associate cyber security instructor at NFC Institute of Engineering & Technology for NAVTTC courses.
+Computer geek specializing in software engineering and security. With more than 8 years of experience in IT industory.
 
 ### 🚀 Expertise
 
-- Full Stack Web Development
+- Full Stack Web Development (Laravel, Django, Vuejs)
 - Cyber Security (Offensive & Defensive)
-- Computer Networking
-- OSINT (Open-Source Intelligence)
 
 ### 💻 Tech Stack
 
