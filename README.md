@@ -14,7 +14,7 @@ Computer geek specializing in software engineering and security. With more than 
 #### Web Development
 - Backend: Django, Laravel
 - Frontend: Vue.js, HTML, CSS (Bootstrap)
-- JavaScript: Vue.js, Chart.js, jQuery
+- JavaScript: Vue.js, AlpineJs,Chart.js, jQuery
 
 #### Programming Languages
 - Python - PHP - JavaScript - Shell Scripting (Bash, PowerShell)
