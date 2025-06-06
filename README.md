@@ -27,9 +27,6 @@ Computer geek specializing in software engineering and security. With more than 
 - Malware Analysis
 - SOC
 
-### 📊 GitHub Stats
-
-[You can add GitHub stats widgets here]
 
 ---
 
