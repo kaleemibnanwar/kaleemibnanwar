@@ -245,14 +245,6 @@ NFC Institute of Engineering & Technology
 
 ---
 
-# GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kaleemibnanwar&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleemibnanwar&layout=compact&theme=github_dark)
-
----
-
 # Currently Learning
 
 - AI Agents
