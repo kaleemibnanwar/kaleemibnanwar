@@ -13,6 +13,7 @@ Building secure, scalable software and AI-powered products.
 [Upwork](https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf)
 
 📍 Manchester, England 🇬🇧
+
 🇵🇰 Originally from a small village in Pakistan
 
 </div>
