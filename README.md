@@ -1,33 +1,289 @@
-# 👋 Hi, I'm Kaleem Ibn Anwar
+<div align="center">
 
-## ✨ Full Stack Developer & Cyber Security Analyst ✨
+# Hi, I'm Kaleem Ibn Anwar 👋
 
-Computer geek specializing in software engineering and security. With more than 8 years of experience in IT industory.
+### Software Architect • Full Stack Engineer • Cybersecurity Consultant
 
-### 🚀 Expertise
+Building secure, scalable software and AI-powered products.
 
-- Full Stack Web Development (Laravel, Django, Vuejs)
-- Cyber Security (Offensive & Defensive)
+[LinkedIn](https://linkedin.com/in/kaleemibnanwar) •
+[GitHub](https://github.com/kaleemibnanwar) •
+[Upwork](https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf)
 
-### 💻 Tech Stack
+📍 Rochdale, England
 
-#### Web Development
-- Backend: Django, Laravel
-- Frontend: Vue.js, HTML, CSS (Bootstrap)
-- JavaScript: Vue.js, AlpineJs,Chart.js, jQuery
-
-#### Programming Languages
-- Python - PHP - JavaScript - Shell Scripting (Bash, PowerShell)
-
-### 🛡️ Cyber Security
-
-- Network Security & Penetration Testing
-- Red Team Operations
-- Cyber Warfare
-- Malware Analysis
-- SOC
-
+</div>
 
 ---
 
-Always learning, always coding, always securing! 🔐💻
+## About Me
+
+I'm a Software Architect and Cybersecurity Consultant with **6+ years of professional experience** designing and building scalable web platforms, SaaS products, APIs, AI-powered applications, and cloud-native systems.
+
+I specialize in turning complex business ideas into secure, maintainable software that scales.
+
+Alongside software engineering, I've spent years in cybersecurity as a penetration tester, instructor, and security researcher, allowing me to design systems with security built in from the beginning—not added later.
+
+Recently graduated with an **MSc in Cyber Security and Threat Intelligence** from the **University of Salford**.
+
+---
+
+## Highlights
+
+- 🏆 Top Rated Upwork Freelancer
+- ⭐ 100% Job Success Score
+- ⭐⭐⭐⭐⭐ 5.0 Rating
+- ✅ 28+ Successfully Delivered Projects
+- 🚀 10+ MVPs built for startups
+- 🌍 Worked with clients across Europe, Australia, Asia, and the Americas
+- 🔐 Cisco Certified in Cybersecurity Essentials
+- 🧠 MSc Cyber Security & Threat Intelligence (2026)
+
+---
+
+# Tech Stack
+
+### Languages
+
+- Python
+- PHP
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Bash
+- PowerShell
+
+### Backend
+
+- Django
+- Django REST Framework
+- Laravel
+- Flask
+- Filament
+- Livewire
+
+### Frontend
+
+- Vue.js
+- Alpine.js
+- Tailwind CSS
+- Bootstrap
+- Chart.js
+- jQuery
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### Cloud & DevOps
+
+- Docker
+- AWS
+- Azure
+- Google Cloud
+- Git
+- Linux
+- VPS
+- Nginx
+- Heroku
+
+### AI
+
+- LLM Integration
+- LangChain
+- RAG
+- OpenAI APIs
+- Anthropic APIs
+- n8n Automation
+
+### Cybersecurity
+
+- Penetration Testing
+- Malware Analysis
+- Secure Architecture
+- Network Security
+- SOC Operations
+- Threat Intelligence
+- Red Teaming
+
+---
+
+# Professional Experience
+
+## Software Architect & Engineer
+
+**Upwork**  
+**April 2023 – Present**
+
+Working with startups and businesses worldwide to build scalable SaaS applications, AI products, ERP/CRM systems, automation platforms, and enterprise web applications.
+
+Main technologies:
+
+- Django
+- Laravel
+- Vue.js
+- PostgreSQL
+- Docker
+- AWS
+- AI/LLM Integration
+
+---
+
+## Project Manager & Senior Full Stack Developer
+
+**BatchBrain**
+
+Designed and managed architecture for a large-scale learning platform featuring:
+
+- AI-powered learning
+- Social networking
+- Messaging
+- Certification
+- Examinations
+- Content management
+
+Stack:
+
+- Django
+- DRF
+- Vue
+- PostgreSQL
+- Redis
+- Celery
+- Docker
+- LangChain
+
+---
+
+## Django Backend Developer
+
+**Nexook**
+
+Built backend APIs, scheduling systems and Google Calendar integrations using Django and Celery.
+
+---
+
+## Previous Roles
+
+- Project Manager — EzySoft Solutions
+- Senior Full Stack Developer — EzySoft Solutions
+- Full Stack Developer — Dev Paragon
+- Cyber Security Instructor — NAVTTC
+- Founder & President — Global Erudition Club
+- President — Hackers' Laboratory
+
+---
+
+# Open Source
+
+### iotory
+
+A Shodan-inspired IoT discovery and HTTP enumeration tool built for large network reconnaissance.
+
+More open-source projects are being released progressively.
+
+---
+
+# Selected Commercial Projects
+
+Although most client work is under NDA, projects include:
+
+- AI Resume Ranking Platform
+- Learning Management Systems
+- Recruitment Platforms
+- CRM Systems
+- ERP Platforms
+- E-commerce Platforms
+- Document Tracking Systems
+- Consultant Marketplace
+- SaaS Products
+- Appointment Management Systems
+
+---
+
+# Areas of Interest
+
+- Software Architecture
+- Distributed Systems
+- AI Engineering
+- Cybersecurity
+- Cloud Infrastructure
+- Developer Tools
+- Open Source
+- System Design
+- Performance Optimization
+
+---
+
+# Education
+
+**MSc — Cyber Security and Threat Intelligence**
+
+University of Salford
+
+2025–2026
+
+---
+
+**Bachelor of Computer Science**
+
+NFC Institute of Engineering & Technology
+
+2020–2024
+
+---
+
+# Certifications
+
+- Cisco Cybersecurity Essentials
+
+---
+
+# GitHub Stats
+
+> GitHub statistics are automatically generated by GitHub Readme Stats.
+
+```text
+(Add your preferred GitHub stats cards here)
+
+https://github.com/anuraghazra/github-readme-stats
+
+```
+
+Example:
+
+```markdown
+![Stats](https://github-readme-stats.vercel.app/api?username=kaleemibnanwar&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleemibnanwar&layout=compact&theme=github_dark)
+
+```
+
+---
+
+# Currently Learning
+
+- AI Agents
+- Advanced RAG
+- Cloud Architecture
+- Kubernetes
+- Distributed Systems
+- Threat Intelligence
+
+---
+
+# Let's Connect
+
+- LinkedIn: https://linkedin.com/in/kaleemibnanwar
+- GitHub: https://github.com/kaleemibnanwar
+- Upwork: https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf
+
+---
+
+> *Building software that is scalable, secure, and designed to last.*
+
+**Last Updated:** 09 July 2026
