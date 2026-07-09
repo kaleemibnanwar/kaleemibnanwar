@@ -3,6 +3,7 @@
 # Hi, I'm Kaleem Ibn Anwar 👋
 
 ### Software Architect • Full Stack Engineer • Cybersecurity Consultant
+( AI + Cyber Security Researcher )
 
 Building secure, scalable software and AI-powered products.
 
@@ -10,7 +11,8 @@ Building secure, scalable software and AI-powered products.
 [GitHub](https://github.com/kaleemibnanwar) •
 [Upwork](https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf)
 
-📍 Rochdale, England
+📍 Manchester, England 🇬🇧
+🇵🇰 Originally from a small village in Pakistan
 
 </div>
 
