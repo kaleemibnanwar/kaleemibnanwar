@@ -6,7 +6,8 @@
 ( AI + Cyber Security Researcher )
 
 Building secure, scalable software and AI-powered products.
-[Batchbrain](https://batchbrain.com/u/kaleemibnanwar)
+
+• [Batchbrain](https://batchbrain.com/u/kaleemibnanwar)
 [LinkedIn](https://linkedin.com/in/kaleemibnanwar) •
 [GitHub](https://github.com/kaleemibnanwar) •
 [Upwork](https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf)
