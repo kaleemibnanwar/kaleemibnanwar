@@ -20,6 +20,22 @@ Building secure, scalable software and AI-powered products.
 
 ---
 
+## 🚀 Featured — BatchBrain Check
+
+**A 5-minute test that prints a receipt of your competence** — not a certificate.
+
+I'm building [BatchBrain](https://batchbrain.com), an AI-powered learning
+platform, and the free
+[competence check](https://batchbrain.com/check/?utm_source=github&utm_medium=social&utm_campaign=cycle330)
+is live: answer from memory, rate your confidence, and get a downloadable
+"receipt" of exactly what you know — and how well you know that you know it.
+
+> *"A certificate proves attendance. A receipt proves competence."*
+
+[→ Take the 5-minute check (free, no account)](https://batchbrain.com/check/?utm_source=github&utm_medium=social&utm_campaign=cycle330)
+
+---
+
 ## About Me
 
 I'm a Software Architect and Cybersecurity Consultant with **6+ years of professional experience** designing and building scalable web platforms, SaaS products, APIs, AI-powered applications, and cloud-native systems.
@@ -268,4 +284,4 @@ NFC Institute of Engineering & Technology
 
 > *Building software that is scalable, secure, and designed to last.*
 
-**Last Updated:** 09 July 2026
+**Last Updated:** 14 August 2026
