@@ -1,287 +1,48 @@
-<div align="center">
-
 # Hi, I'm Kaleem Ibn Anwar 👋
 
-### Software Architect • Full Stack Engineer • Cybersecurity Consultant
-( AI + Cyber Security Researcher )
+**Software Architect & Cybersecurity Consultant** — I build AI-powered software, and I make sure it doesn't leak your data.
 
-Building secure, scalable software and AI-powered products.
+## About me
 
-• [Batchbrain](https://batchbrain.com/u/kaleemibnanwar)
-• [LinkedIn](https://linkedin.com/in/kaleemibnanwar) •
-[GitHub](https://github.com/kaleemibnanwar) •
-[Upwork](https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf)
+I've spent the last 6+ years building backend-heavy products — Django and Laravel are home to me, with Vue.js on the front. But what really set my career apart is how I started: on the security side. I've taught cybersecurity, done pentesting, and finished an MSc in Cyber Security & Threat Intelligence. That background shapes everything I build now.
 
-📍 Manchester, England 🇬🇧
+These days, most of my work is wiring AI into real products. Not chatbot wrappers — actual agents that plug into a business and do real work. And because I know how systems get broken, I build them secure by design.
 
-🇵🇰 Originally from a small village in Pakistan
+- 🎓 **MSc Cyber Security & Threat Intelligence** — University of Salford
+- 🏅 **Top Rated** on Upwork · 5.0★ across 23 reviews · 29 projects shipped
+- 🧠 Currently: architecture & project management for **Batchbrain** (ed-tech)
 
-</div>
+## What I work with
 
----
+| Area | Stack |
+|---|---|
+| **Backend** | Python · Django · Flask · PHP · Laravel · Filament · Livewire |
+| **Frontend** | Vue.js · JavaScript · TypeScript · Tailwind CSS |
+| **AI / Automation** | LangChain · RAG · AI Agents · n8n |
+| **Data & Infra** | PostgreSQL · MySQL · MongoDB · Docker · AWS |
+| **Security** | Threat Intelligence · Secure AI Design · Penetration Testing |
 
-## 🚀 Featured — BatchBrain Check
+## Things I've built
 
-**A 5-minute test that prints a receipt of your competence** — not a certificate.
+- **Hural.pro** — AI resume ranking platform (Django + Vue.js) that scores candidates against job descriptions
+- **Batchbrain** — large online social learning platform
+- **Suits** — law SaaS platform (Laravel)
+- **Nexook** — marketplace for consultants
+- **Appointments Management System** — CRM for a servicing company
+- **Document Tracking System** — NFC IET University (with organogram)
+- **Targeo** — IP range / geolocation intelligence tool
 
-I'm building [BatchBrain](https://batchbrain.com), an AI-powered learning
-platform, and the free
-[competence check](https://batchbrain.com/check/?utm_source=github&utm_medium=social&utm_campaign=cycle330)
-is live: answer from memory, rate your confidence, and get a downloadable
-"receipt" of exactly what you know — and how well you know that you know it.
+## How I work
 
-> *"A certificate proves attendance. A receipt proves competence."*
+1. **AI that works. Security that holds.** If an agent gets real API access, it should be built by someone who knows how it'll be attacked.
+2. **No demo-ware.** I ship things that survive real users, real traffic, and real adversaries.
+3. **Proof over certificates.** Code that runs beats credentials that just sit there.
+4. **Straight answers.** If I'm not the right fit, I'll tell you — and point you to someone who is.
 
-[→ Take the 5-minute check (free, no account)](https://batchbrain.com/check/?utm_source=github&utm_medium=social&utm_campaign=cycle330)
+## Let's talk
 
----
+- **Upwork:** [kaleemibnanwar](https://upwork.com/freelancers/kaleemibnanwar)
+- **LinkedIn:** [in/kaleemibnanwar](https://www.linkedin.com/in/kaleemibnanwar)
+- **Email:** kaleemibnanwar@gmail.com
 
-## About Me
-
-I'm a Software Architect and Cybersecurity Consultant with **6+ years of professional experience** designing and building scalable web platforms, SaaS products, APIs, AI-powered applications, and cloud-native systems.
-
-I specialize in turning complex business ideas into secure, maintainable software that scales.
-
-Alongside software engineering, I've spent years in cybersecurity as a penetration tester, instructor, and security researcher, allowing me to design systems with security built in from the beginning—not added later.
-
-Recently graduated with an **MSc in Cyber Security and Threat Intelligence** from the **University of Salford**.
-
----
-
-## Highlights
-
-- 🏆 Top Rated Upwork Freelancer
-- ⭐ 100% Job Success Score
-- ⭐⭐⭐⭐⭐ 5.0 Rating
-- ✅ 28+ Successfully Delivered Projects
-- 🚀 10+ MVPs built for startups
-- 🌍 Worked with clients across Europe, Australia, Asia, and the Americas
-- 🔐 Cisco Certified in Cybersecurity Essentials
-- 🧠 MSc Cyber Security & Threat Intelligence (2026)
-
----
-
-# Tech Stack
-
-### Languages
-
-- Python
-- PHP
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- Bash
-- PowerShell
-
-### Backend
-
-- Django
-- Django REST Framework
-- Laravel
-- Flask
-- Filament
-- Livewire
-
-### Frontend
-
-- Vue.js
-- Alpine.js
-- Tailwind CSS
-- Bootstrap
-- Chart.js
-- jQuery
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-### Cloud & DevOps
-
-- Docker
-- AWS
-- Azure
-- Google Cloud
-- Git
-- Linux
-- VPS
-- Nginx
-- Heroku
-
-### AI
-
-- LLM Integration
-- LangChain
-- RAG
-- OpenAI APIs
-- Anthropic APIs
-- n8n Automation
-
-### Cybersecurity
-
-- Penetration Testing
-- Malware Analysis
-- Secure Architecture
-- Network Security
-- SOC Operations
-- Threat Intelligence
-- Red Teaming
-
----
-
-# Professional Experience
-
-## Software Architect & Engineer
-
-**Upwork**  
-**April 2023 – Present**
-
-Working with startups and businesses worldwide to build scalable SaaS applications, AI products, ERP/CRM systems, automation platforms, and enterprise web applications.
-
-Main technologies:
-
-- Django
-- Laravel
-- Vue.js
-- PostgreSQL
-- Docker
-- AWS
-- AI/LLM Integration
-
----
-
-## Project Manager & Senior Full Stack Developer
-
-**BatchBrain**
-
-Designed and managed architecture for a large-scale learning platform featuring:
-
-- AI-powered learning
-- Social networking
-- Messaging
-- Certification
-- Examinations
-- Content management
-
-Stack:
-
-- Django
-- DRF
-- Vue
-- PostgreSQL
-- Redis
-- Celery
-- Docker
-- LangChain
-
----
-
-## Django Backend Developer
-
-**Nexook**
-
-Built backend APIs, scheduling systems and Google Calendar integrations using Django and Celery.
-
----
-
-## Previous Roles
-
-- Project Manager — EzySoft Solutions
-- Senior Full Stack Developer — EzySoft Solutions
-- Full Stack Developer — Dev Paragon
-- Cyber Security Instructor — NAVTTC
-- Founder & President — Global Erudition Club
-- President — Hackers' Laboratory
-
----
-
-# Open Source
-
-### iotory
-
-A Shodan-inspired IoT discovery and HTTP enumeration tool built for large network reconnaissance.
-
-More open-source projects are being released progressively.
-
----
-
-# Selected Commercial Projects
-
-Although most client work is under NDA, projects include:
-
-- AI Resume Ranking Platform
-- Learning Management Systems
-- Recruitment Platforms
-- CRM Systems
-- ERP Platforms
-- E-commerce Platforms
-- Document Tracking Systems
-- Consultant Marketplace
-- SaaS Products
-- Appointment Management Systems
-
----
-
-# Areas of Interest
-
-- Software Architecture
-- Distributed Systems
-- AI Engineering
-- Cybersecurity
-- Cloud Infrastructure
-- Developer Tools
-- Open Source
-- System Design
-- Performance Optimization
-
----
-
-# Education
-
-**MSc — Cyber Security and Threat Intelligence**
-
-University of Salford
-
-2025–2026
-
----
-
-**Bachelor of Computer Science**
-
-NFC Institute of Engineering & Technology
-
-2020–2024
-
----
-
-# Certifications
-
-- Cisco Cybersecurity Essentials
-
----
-
-# Currently Learning
-
-- AI Agents
-- Advanced RAG
-- Cloud Architecture
-- Kubernetes
-- Distributed Systems
-- Threat Intelligence
-
----
-
-# Let's Connect
-
-- LinkedIn: https://linkedin.com/in/kaleemibnanwar
-- GitHub: https://github.com/kaleemibnanwar
-- Upwork: https://www.upwork.com/freelancers/~012ba791ad5c8b3dcf
-
----
-
-> *Building software that is scalable, secure, and designed to last.*
-
-**Last Updated:** 14 August 2026
+*Open to: AI integration projects · secure web app development · architecture consulting · security review of AI systems*
