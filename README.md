@@ -6,6 +6,7 @@
 
 *I build AI that ships — and secure it like someone's going to attack it.*
 
+[![Website](https://img.shields.io/badge/Website-soloman.si-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://soloman.si)
 [![GitHub](https://img.shields.io/badge/GitHub-kaleemibnanwar-181717?style=flat-square&logo=github)](https://github.com/kaleemibnanwar)
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-14a800?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com/freelancers/kaleemibnanwar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kaleemibnanwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaleemibnanwar)
@@ -17,18 +18,19 @@
 
 **MSc Cyber Security & Threat Intelligence** · 6+ years in backend-heavy products. I wire real AI agents into real businesses — *secure by design*, not as an afterthought.
 
-### 🐙 Featured — the Octopus AI Ecosystem
+### ⚡ Featured — the Soloman Ecosystem
 
-An open-source, local-first autonomous AI stack. One agentic octopus, eight hands.
+An open-source, local-first AI stack. Four tools wired together over MCP — everything runs on your machine. Downloads, docs and case studies at **[soloman.si](https://soloman.si)**.
 
 | Repo | What it does | Stack |
 |---|---|---|
-| **[Octopus Studio](https://github.com/kaleemibnanwar/OctopusStudio)** | Local-first AI workspace — describe an app, watch agents scaffold & ship it on your machine | Electron · AI Agents |
-| **[OctoLimb](https://github.com/kaleemibnanwar/octolimb)** | MCP for any browser — give Claude Code / Codex a real Chrome to drive | Node · MCP · Chrome |
-| **[Octopus MCP Manager](https://github.com/kaleemibnanwar/OctopusMCP-Manager)** | MCP server discovery, sandboxing, permission brokering & tool routing | JavaScript · MCP |
-| **[octocut](https://github.com/kaleemibnanwar/octocut)** | Self-driving video editor — programmatic media pipeline | Media · AI |
-| **[Octopus AI Ecosystem](https://github.com/kaleemibnanwar/Octopus-AI-Ecosystem)** | Umbrella framework tying the four tools into autonomous loops | Blueprints · Docs |
-| **[Awesome-Octopus](https://github.com/kaleemibnanwar/Awesome-Octopus)** | Ecosystem hub — features, case studies & cyber-physical blueprints | Curated list |
+| **[Soloman Studio](https://github.com/kaleemibnanwar/Soloman-Studio)** | Local-first AI workspace — research, documents, data, media, scheduled automation, MCP tools and software development, driven by agent DAGs | Electron · React · AI Agents |
+| **[Soloman Editor](https://github.com/kaleemibnanwar/SolomanEditor)** | The video editor that drives itself — AI video, image & broadcast studio with a built-in MCP server (84 tools) | Electron · React · MCP |
+| **[Soloman Manager](https://github.com/kaleemibnanwar/Soloman-Manager)** | MCP server manager & local LLM proxy — isolated Python venvs, one gateway for every provider, one-click CLI sync | Python · MCP |
+| **[Soloman Limb](https://github.com/kaleemibnanwar/solomanlimb)** | MCP for any browser — give Claude Code / Codex a real Chrome to drive | Node · MCP · Chrome |
+| **[Soloman Studio Browser Limb](https://github.com/kaleemibnanwar/Soloman-Studio-Browser-Limb)** | Browser extension with a built-in MCP server — Studio drives your real, already-logged-in browser session | Extension · MCP |
+| **[Soloman.si-Ecosystem](https://github.com/kaleemibnanwar/Soloman.si-Ecosystem)** | Umbrella architecture — how the tools interconnect into autonomous loops | Blueprints · Docs |
+| **[Awesome Soloman](https://github.com/kaleemibnanwar/Awesome-Soloman.si)** | Ecosystem hub — features, case studies & cyber-physical blueprints | Curated list |
 
 ### 🛡️ Security & tooling
 
@@ -40,7 +42,7 @@ An open-source, local-first autonomous AI stack. One agentic octopus, eight hand
 
 | Repo | What it does | Stack |
 |---|---|---|
-| **[snapog-pages](https://github.com/kaleemibnanwar/snapog-pages)** | Landing page for SnapOG — an OG-image API for developers | HTML |
+| **[awesome-og-images](https://github.com/kaleemibnanwar/awesome-og-images)** | Curated list of tools & libraries for generating Open Graph images | Curated list |
 | **[resumepro](https://github.com/kaleemibnanwar/resumepro)** | Resume tooling | Vue · Apache-2.0 |
 | **[dj-cashier](https://github.com/kaleemibnanwar/dj-cashier)** | Django payments / cashier | Python |
 | **[laravel-vue-starter](https://github.com/kaleemibnanwar/laravel-vue-starter)** | Laravel + Vue starter kit | PHP · MIT |
